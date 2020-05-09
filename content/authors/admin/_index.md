@@ -16,10 +16,10 @@ role: Leader in Business Analytics and Industrial Engineering
 organizations:
 - name: AHS
   url: "https://ahs1.com"
-- name: University of Cincinnati
-  url: "https://uc.edu"
-- name: Gloria Dei Lutheran Church
-  url: "https://gloriadei-nky.org"
+# - name: University of Cincinnati
+#   url: "https://uc.edu"
+# - name: Gloria Dei Lutheran Church
+#   url: "https://gloriadei-nky.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My professional interests include Operations-Related Data Analytics, Statistical Analysis, and Data Visualization.
@@ -60,8 +60,8 @@ social:
   icon_pack: fab
   link: https://twitter.com/
 - icon: github
-  icon_pack: fab
-  link: https://github.com/rick-82
+   icon_pack: fab
+   link: https://github.com/rick-82
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
