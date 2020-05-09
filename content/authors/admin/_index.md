@@ -50,12 +50,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:thelucasdifference@yahoo.com".
-- icon: linkedin
-  icon_pack: fab
-  link: https://linkedin.com/in/rick-lucas-09947576
-- icon: facebook
-  icon_pack: fab
-  link: https://facebook.com
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://linkedin.com/in/rick-lucas-09947576
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://facebook.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/
