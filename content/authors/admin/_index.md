@@ -4,7 +4,7 @@ title: Rick Lucas
 
 # Username (this should match the folder name)
 authors: 
-- rick-82
+- admin
 
 # Is this the primary user of the site?
 superuser: true
